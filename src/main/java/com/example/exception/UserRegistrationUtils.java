@@ -14,4 +14,5 @@ public class UserRegistrationUtils {
             throw new WrongPasswordException("Пароли не совпадают");
         }
     }
+
 }
